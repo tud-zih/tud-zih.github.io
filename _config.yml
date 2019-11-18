@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: [ZIH (TU Dresden)]
 description: [<b>Zentrum für Informationsdienste und Hochleistungsrechnen (ZIH)<br> der Technische Universität Dresden</b>]
+github:
+  repository_url: https://github.com/tud-zih/
