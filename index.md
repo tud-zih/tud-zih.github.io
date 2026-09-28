@@ -4,3 +4,4 @@
 
  * [Energy Efficiency](https://github.com/tud-zih-energy)
  * [Performance Tools](https://github.com/tud-zih-tools)
+ * [Artificial Intelligence](https://github.com/tud-zih-ki)
